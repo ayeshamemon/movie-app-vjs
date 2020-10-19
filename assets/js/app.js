@@ -14,6 +14,8 @@ const inputElement = document.querySelector('#inputValue');
 
 const movieSearchable = document.querySelector('#movies-searchable');
 
+//html code included
+
 /*
 
  <div class="movie">
